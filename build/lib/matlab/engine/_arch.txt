@@ -1,0 +1,4 @@
+win64
+D:\MATLAB\extern\engines\python\..\..\..\bin\win64
+D:\MATLAB\extern\engines\python\dist\matlab\engine\win64
+D:\MATLAB\extern\engines\python\..\..\..\extern\bin\win64
